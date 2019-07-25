@@ -9,6 +9,8 @@
 # MINOR version when you add functionality in a backwards-compatible manner, and
 # PATCH version when you make backwards-compatible bug fixes.
 
+# https://gist.github.com/rponte/fdc0724dd984088606b0
+
 echo "Starting the taging process based on commit message +semver: xxxxx"
 
 #get highest tags across all branches, not just the current branch
